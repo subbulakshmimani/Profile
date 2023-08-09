@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @subbulakshmimani
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Django
+- 👋 Hi, I’m @subbulakshmi
+- 👀 I’m interested in MERN STACK
+- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me ...
 
