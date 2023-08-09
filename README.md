@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subbulakshmi
+- 👋 Hi, I’m @subha
 - 👀 I’m interested in MERN STACK
 - 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on web developing
